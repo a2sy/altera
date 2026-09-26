@@ -12,6 +12,19 @@
         "src/plugins/random-note-button/garden-plugin.json",
         "src/plugins/random-note-button/templates/button.njk"
       ]
+    },
+    "growth-stages": {
+      "repo": "oleeskild/garden-plugin-growth-stages",
+      "installedVersion": "1.0.0",
+      "installedRef": "v1.0.0",
+      "installedAt": "2026-09-26T12:08:16.348Z",
+      "enabled": true,
+      "files": [
+        "src/plugins/growth-stages/README.md",
+        "src/plugins/growth-stages/garden-plugin.json",
+        "src/plugins/growth-stages/styles/badge.scss",
+        "src/plugins/growth-stages/templates/badge.njk"
+      ]
     }
   }
 }
