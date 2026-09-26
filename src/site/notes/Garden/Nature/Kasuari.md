@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/garden/nature/kasuari/","tags":["fauna","aves"],"created":"2026-09-21","updated":"2026-09-21","dg-note-properties":{"created":"2024-08-13","modified":"2026-09-21","tags":["fauna","aves"]}}
+{"dg-publish":true,"permalink":"/garden/nature/kasuari/","title":"Mengenal burung kasuari","tags":["fauna","aves"],"created":"2026-09-21","updated":"2026-09-26","dg-note-properties":{"created":"2024-08-13","modified":"2026-09-21","tags":["fauna","aves"],"title":"Mengenal burung kasuari"}}
 ---
 
 # Kasuari / Cassowary
+
 ![kasuari.png\|700](/img/user/Store/Images/kasuari.png)
 (gambar: kasuari selatan, kasuari utara, dan kasuari kerdil)
 

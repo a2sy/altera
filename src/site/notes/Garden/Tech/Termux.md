@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/tech/termux/","title":"Termux 101","tags":["android","linux","software"],"dg-note-properties":{"created":"2024-08-01","modified":"2026-09-25","title":"Termux 101","tags":["android","linux","software"]}}
+{"dg-publish":true,"permalink":"/garden/tech/termux/","title":"Termux 101","tags":["android","linux","software"],"created":"2026-09-25","dg-note-properties":{"created":"2024-08-01","modified":"2026-09-25","title":"Termux 101","tags":["android","linux","software"]}}
 ---
 
 Termux adalah emulator terminal *open-source* untuk perangkat android, termux memungkinkan untuk menjalankan berbagai perintah dan program Linux langsung dari perangkat android tanpa perlu melakukan *root*.
