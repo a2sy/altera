@@ -1,8 +1,8 @@
 {
   "/": [
-    "Hello~",
-    "aboutme",
-    "Garden"
+    "Hello",
+    "Garden",
+    "aboutme"
   ],
   "/Garden": [
     "Nature",
@@ -13,6 +13,8 @@
   ],
   "/Garden/Tech": [
     "Termux",
-    "yt-dlp"
+    "yt-dlp",
+    "arus AC dan DC",
+    "DRM Free"
   ]
 }
