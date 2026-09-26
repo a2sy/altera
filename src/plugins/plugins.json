@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "plugins": {
+    "random-note-button": {
+      "repo": "oleeskild/garden-plugin-random-note-button",
+      "installedVersion": "1.0.0",
+      "installedRef": "v1.0.0",
+      "installedAt": "2026-09-26T12:06:18.181Z",
+      "enabled": true,
+      "files": [
+        "src/plugins/random-note-button/README.md",
+        "src/plugins/random-note-button/garden-plugin.json",
+        "src/plugins/random-note-button/templates/button.njk"
+      ]
+    }
+  }
+}
