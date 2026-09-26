@@ -1,12 +1,18 @@
 {
   "/": [
-    "Altera",
-    "02 Garden"
+    "Hello~",
+    "aboutme",
+    "Garden"
   ],
-  "/02 Garden": [
-    "Science & Nature"
+  "/Garden": [
+    "Nature",
+    "Tech"
   ],
-  "/02 Garden/Science & Nature": [
+  "/Garden/Nature": [
     "Kasuari"
+  ],
+  "/Garden/Tech": [
+    "Termux",
+    "yt-dlp"
   ]
 }
