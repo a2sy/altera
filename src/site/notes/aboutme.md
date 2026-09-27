@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/aboutme/","title":"About Me","created":"2026-09-26","updated":"2026-09-26","dg-note-properties":{"title":"About Me"}}
+{"dg-publish":true,"permalink":"/aboutme/","title":"About Me","created":"2026-09-26","updated":"2026-09-27","dg-note-properties":{"title":"About Me"}}
 ---
 
 
 <!-- Header Section -->
+<br>
 <div style="text-align: center; margin-bottom: 2rem; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
   <!-- Profile Avatar -->
   <div style="width: 88px; height: 88px; border-radius: 50%; background: linear-gradient(135deg, #21262d, #30363d); margin: 0 auto 1.25rem auto; display: flex; align-items: center; justify-content: center; border: 2px solid #30363d; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
