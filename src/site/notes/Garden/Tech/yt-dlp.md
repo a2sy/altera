@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/tech/yt-dlp/","tags":["linux","cli","software"],"dg-note-properties":{"created":"2024-07-22","modified":"2026-09-25","tags":["linux","cli","software"]}}
+{"dg-publish":true,"permalink":"/garden/tech/yt-dlp/","title":"Unduh video dengan mudah (yt-dlp)","tags":["linux","cli","software"],"created":"2026-09-25","updated":"2026-09-25","dg-note-properties":{"created":"2024-07-22","modified":"2026-09-25","tags":["linux","cli","software"],"title":"Unduh video dengan mudah (yt-dlp)"}}
 ---
 
 Mendownload video dari internet kini menjadi lebih mudah, apalagi dengan adanya tools yang dapat dengan mudah membantu kita melakukannya. Misalnya dengan bantuan situs web yang banyak beredar di internet. Video yang diunduh dari situs-situs tersebut mungkin saja disisipi malware berbahaya, atau anda terpaksa menonton iklan yang mengganggu sebelum bisa menikmati video yang diinginkan. Belum lagi, kualitas video yang didownload seringkali tidak optimal.
