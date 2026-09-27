@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/tech/android-mic/","title":"Ubah Android menjadi Microfon komputer (AndroidMic)","tags":["android"],"created":"2026-09-27","dg-note-properties":{"created":"2026-09-27","modified":"2026-09-27","tags":["android"],"title":"Ubah Android menjadi Microfon komputer (AndroidMic)","stage":"seedling"}}
+{"dg-publish":true,"permalink":"/garden/tech/android-mic/","title":"Ubah Android menjadi Microfon komputer (AndroidMic)","tags":["android","software","linux"],"created":"2026-09-27","dg-note-properties":{"created":"2026-09-27","modified":"2026-09-27","tags":["android","software","linux"],"title":"Ubah Android menjadi Microfon komputer (AndroidMic)","stage":"seedling"}}
 ---
 
 Ubah android jadi microphone untuk recording atau streaming.
