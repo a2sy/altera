@@ -85,7 +85,7 @@
       }
     },
     "dg-filetree": {
-      "enabled": false
+      "enabled": true
     },
     "rounded-images": {
       "repo": "oleeskild/garden-plugin-rounded-images",
