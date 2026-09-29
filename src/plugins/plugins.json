@@ -66,6 +66,19 @@
         "src/plugins/related-notes/styles/related.scss",
         "src/plugins/related-notes/templates/related.njk"
       ]
+    },
+    "hello-gardener": {
+      "repo": "oleeskild/garden-plugin-hello-gardener",
+      "installedVersion": "1.0.0",
+      "installedRef": "v1.0.0",
+      "installedAt": "2026-09-29T15:19:54.873Z",
+      "enabled": true,
+      "files": [
+        "src/plugins/hello-gardener/README.md",
+        "src/plugins/hello-gardener/garden-plugin.json",
+        "src/plugins/hello-gardener/styles/badge.scss",
+        "src/plugins/hello-gardener/templates/badge.njk"
+      ]
     }
   }
 }

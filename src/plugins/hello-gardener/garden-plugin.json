@@ -1,0 +1,29 @@
+{
+  "id": "hello-gardener",
+  "name": "Hello Gardener",
+  "version": "1.0.0",
+  "description": "A tiny test plugin: shows a friendly badge under every note. Useful for trying out the plugin install flow.",
+  "author": "Ole Eskild Steensen",
+  "slots": {
+    "notes.footer": "templates/badge.njk"
+  },
+  "styles": ["styles/badge.scss"],
+  "settings": [
+    {
+      "key": "message",
+      "name": "Badge message",
+      "description": "The text shown in the badge.",
+      "type": "text",
+      "default": "Grown with Hello Gardener",
+      "env": "HELLO_GARDENER_MESSAGE"
+    },
+    {
+      "key": "emoji",
+      "name": "Emoji",
+      "description": "Pick the sprout of your choice.",
+      "type": "select",
+      "default": "🌱",
+      "options": ["🌱", "🌿", "🌷", "🍄", "🌵"]
+    }
+  ]
+}
