@@ -100,20 +100,6 @@
         "src/plugins/rounded-images/templates/style.njk"
       ]
     },
-    "tag-nav": {
-      "repo": "oleeskild/garden-plugin-tag-nav",
-      "installedVersion": "1.0.0",
-      "installedRef": "v1.0.0",
-      "installedAt": "2026-09-29T15:48:14.436Z",
-      "enabled": false,
-      "files": [
-        "src/plugins/tag-nav/README.md",
-        "src/plugins/tag-nav/garden-plugin.json",
-        "src/plugins/tag-nav/index.js",
-        "src/plugins/tag-nav/styles/tag-nav.scss",
-        "src/plugins/tag-nav/templates/tag-nav.njk"
-      ]
-    },
     "home-graph": {
       "repo": "oleeskild/garden-plugin-home-graph",
       "installedVersion": "1.0.0",
