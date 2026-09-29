@@ -44,7 +44,7 @@
       "repo": "oleeskild/garden-plugin-copy-code-button",
       "installedVersion": "1.0.0",
       "installedRef": "v1.0.0",
-      "installedAt": "2026-09-29T15:15:27.401Z",
+      "installedAt": "2026-09-29T15:35:33.899Z",
       "enabled": true,
       "files": [
         "src/plugins/copy-code-button/README.md",
