@@ -98,7 +98,11 @@
         "src/plugins/rounded-images/garden-plugin.json",
         "src/plugins/rounded-images/screenshot.png",
         "src/plugins/rounded-images/templates/style.njk"
-      ]
+      ],
+      "settings": {
+        "radius": 8,
+        "scope": "content"
+      }
     },
     "home-graph": {
       "repo": "oleeskild/garden-plugin-home-graph",
