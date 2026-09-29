@@ -78,7 +78,11 @@
         "src/plugins/hello-gardener/garden-plugin.json",
         "src/plugins/hello-gardener/styles/badge.scss",
         "src/plugins/hello-gardener/templates/badge.njk"
-      ]
+      ],
+      "settings": {
+        "message": "Hello Gardener",
+        "emoji": "🌱"
+      }
     },
     "moc-nav": {
       "repo": "oleeskild/garden-plugin-moc-nav",
