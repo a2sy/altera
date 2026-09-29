@@ -1,0 +1,60 @@
+.gp-tag-nav {
+  .gp-tag-group {
+    margin: 2px 0;
+  }
+
+  .gp-tag-header {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    padding: 4px 8px;
+    border-radius: 6px;
+    cursor: pointer;
+
+    &:hover {
+      background: var(--background-modifier-hover, rgba(128, 128, 128, 0.12));
+    }
+
+    svg {
+      width: 14px;
+      height: 14px;
+      flex-shrink: 0;
+      opacity: 0.6;
+    }
+  }
+
+  .gp-tag-name {
+    font-weight: 600;
+    flex: 1;
+  }
+
+  .gp-tag-count {
+    font-size: 0.75em;
+    opacity: 0.55;
+  }
+
+  .gp-tag-notes {
+    margin-left: 12px;
+    padding-left: 8px;
+    border-left: 1px solid var(--background-modifier-border, rgba(128, 128, 128, 0.25));
+  }
+
+  .gp-tag-note {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    opacity: 0.85;
+    font-size: 0.92em;
+    padding: 3px 8px;
+    border-radius: 6px;
+
+    &:hover {
+      opacity: 1;
+      background: var(--background-modifier-hover, rgba(128, 128, 128, 0.12));
+    }
+  }
+
+  .active-note {
+    color: var(--text-accent, inherit);
+  }
+}
