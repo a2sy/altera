@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/tech/android-mic/","title":"Ubah Android menjadi Microfon komputer (AndroidMic)","tags":["android","software","linux"],"created":"2026-09-27","dg-note-properties":{"created":"2026-09-27","modified":"2026-09-27","tags":["android","software","linux"],"title":"Ubah Android menjadi Microfon komputer (AndroidMic)","stage":"seedling"}}
+{"dg-publish":true,"permalink":"/garden/tech/android-mic/","title":"Ubah Android menjadi microfon komputer (AndroidMic)","tags":["android","software","linux"],"created":"2026-09-27","dg-note-properties":{"created":"2026-09-27","modified":"2026-09-27","tags":["android","software","linux"],"title":"Ubah Android menjadi microfon komputer (AndroidMic)","stage":"seedling"}}
 ---
 
 Ubah android jadi microphone untuk recording atau streaming.
@@ -9,7 +9,7 @@ Ubah android jadi microphone untuk recording atau streaming.
 
 # Prasyarat
 Komputer memerlukan **Virtual Audio Cable** terinstal agar aliran suara dari Android dapat dikenali sebagai perangkat input mikrofon.
-## Konfigurasi di Linux:
+## Konfigurasi di Linux
 Pada Linux umumnya tidak perlu menginstal aplikasi tambahan karena dapat memanfaatkan audio server bawaan seperti PipeWire atau PulseAudio.
 
  1. Membuat virtual audio cable (PulseAudio)
@@ -27,9 +27,9 @@ pactl load-module module-remap-source master=virtual_mic.monitor source_name=vir
 
 2. Konfigurasi firewall
 Izinkan port yang digunakan oleh AndroidMic melalui `ufw` agar koneksi dari HP ke komputer tidak terblokir:
-```
+```bash
 sudo ufw allow 54345/tcp
-sudo ufw allow 54345/tcp
+sudo ufw allow 54345/udp
 ```
 
 

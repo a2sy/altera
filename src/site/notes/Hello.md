@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/hello/","tags":["gardenEntry"],"created":"2026-09-24","updated":"2026-09-27","dg-note-properties":{"created":"2026-09-21","modified":"2026-09-27"}}
+{"dg-publish":true,"permalink":"/hello/","title":"Hello","tags":["gardenEntry"],"created":"2026-09-24","updated":"2026-09-29","dg-note-properties":{"created":"2026-09-21","modified":"2026-09-27","title":"Hello"}}
 ---
+
 
 👋 Hey there! I’m Arif. Welcome to my little corner of the internet!
 
@@ -10,10 +11,9 @@ I’m still learning to write, so don’t be surprised if some of my posts are a
 
 Cheers,  
 Arif
+# My links and stuff
 
-## My links and stuff
-
-just to verify you’re not interacting with my evil twin, here are some [[Hello\|Hello]] to my profiles:
+just to verify you’re not interacting with my evil twin, here are some [[about me\|about me]] to my profiles:
 
 github : [https://github.com/a2sy](https://github.com/a2sy)  
 discord: [@wizumon](https://discordapp.com/users/714878063141453825)  
