@@ -38,11 +38,13 @@ choco install ffmpeg
 choco install yt-dlp
 ```
 
+## Install di Android
+Selain itu kamu juga bisa menginstallnya di [android](https://github.com/yt-dlp/yt-dlp/wiki/Installation#android) dengan menginstallnya melalui [[Termux \| termux]] atau atau dengan [Seal](https://github.com/junkfood02/Seal).
+
 ---
 
-[dan banyak lagi](https://github.com/yt-dlp/yt-dlp#release-files).
+[dan banyak lagi](https://github.com/yt-dlp/yt-dlp#release-files), atau jika kamu kurang familiar dengan command line, tersedia banyak [GUI Apps](https://www.reddit.com/r/youtubedl/wiki/info-guis/) yang bisa digunakan.
 
-Selain itu kamu juga bisa menginstallnya di [android](https://github.com/yt-dlp/yt-dlp/wiki/Installation#android), atau jika kamu kurang familiar dengan command line, tersedia banyak [GUI Apps](https://www.reddit.com/r/youtubedl/wiki/info-guis/) yang bisa digunakan.
 ## Install FFMPEG
 Sebelum bisa menggunakan yt-dlp diperlukan ffmpeg untuk terinstall di perangkat terlebih dahulu
 
