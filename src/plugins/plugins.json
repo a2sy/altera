@@ -11,7 +11,8 @@
         "src/plugins/random-note-button/README.md",
         "src/plugins/random-note-button/garden-plugin.json",
         "src/plugins/random-note-button/templates/button.njk"
-      ]
+      ],
+      "order": 90
     },
     "growth-stages": {
       "repo": "oleeskild/garden-plugin-growth-stages",
@@ -24,7 +25,8 @@
         "src/plugins/growth-stages/garden-plugin.json",
         "src/plugins/growth-stages/styles/badge.scss",
         "src/plugins/growth-stages/templates/badge.njk"
-      ]
+      ],
+      "order": 70
     },
     "recently-tended": {
       "repo": "oleeskild/garden-plugin-recently-tended",
@@ -38,7 +40,8 @@
         "src/plugins/recently-tended/index.js",
         "src/plugins/recently-tended/styles/list.scss",
         "src/plugins/recently-tended/templates/list.njk"
-      ]
+      ],
+      "order": 100
     },
     "copy-code-button": {
       "repo": "oleeskild/garden-plugin-copy-code-button",
@@ -51,7 +54,8 @@
         "src/plugins/copy-code-button/garden-plugin.json",
         "src/plugins/copy-code-button/styles/copy.scss",
         "src/plugins/copy-code-button/templates/copy.njk"
-      ]
+      ],
+      "order": 20
     },
     "related-notes": {
       "repo": "oleeskild/garden-plugin-related-notes",
@@ -65,7 +69,8 @@
         "src/plugins/related-notes/index.js",
         "src/plugins/related-notes/styles/related.scss",
         "src/plugins/related-notes/templates/related.njk"
-      ]
+      ],
+      "order": 110
     },
     "hello-gardener": {
       "repo": "oleeskild/garden-plugin-hello-gardener",
@@ -82,10 +87,12 @@
       "settings": {
         "message": "Hello Gardener",
         "emoji": "🌱"
-      }
+      },
+      "order": 80
     },
     "dg-filetree": {
-      "enabled": true
+      "enabled": true,
+      "order": 10
     },
     "rounded-images": {
       "repo": "oleeskild/garden-plugin-rounded-images",
@@ -102,7 +109,20 @@
       "settings": {
         "radius": 8,
         "scope": "content"
-      }
+      },
+      "order": 120
+    },
+    "dg-link-preview": {
+      "order": 30
+    },
+    "dg-math": {
+      "order": 40
+    },
+    "dg-search": {
+      "order": 50
+    },
+    "dg-timestamps": {
+      "order": 60
     }
   }
 }
