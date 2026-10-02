@@ -113,13 +113,13 @@
       "order": 120
     },
     "dg-link-preview": {
-      "order": 30
+      "order": 40
     },
     "dg-math": {
       "order": 50
     },
     "dg-search": {
-      "order": 40
+      "order": 30
     },
     "dg-timestamps": {
       "order": 60
