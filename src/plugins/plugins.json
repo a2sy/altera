@@ -58,7 +58,7 @@
       "installedVersion": "1.0.0",
       "installedRef": "v1.0.0",
       "installedAt": "2026-09-29T15:16:19.727Z",
-      "enabled": true,
+      "enabled": false,
       "files": [
         "src/plugins/related-notes/README.md",
         "src/plugins/related-notes/garden-plugin.json",
