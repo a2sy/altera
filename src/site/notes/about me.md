@@ -12,7 +12,7 @@
   </div>
 
   <!-- Title & Subtitle -->
-  <h1 style="font-size: 1.5rem; font-weight: 700; margin: 0 0 0.35rem 0; color: #f0f6fc;">Arif Ardiansyah</h1>
+  <h1 style="font-size: 1.5rem; font-weight: 700; margin: 0 0 0.35rem 0;">Arif Ardiansyah</h1>
   <p style="font-size: 0.8rem; font-weight: 600; text-transform: uppercase; letter-spacing: 1.5px; color: #8b949e; margin: 0;">Mahasiswa &amp; Content Creator</p>
 </div>
 <br>

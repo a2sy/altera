@@ -39,7 +39,7 @@ choco install yt-dlp
 ```
 
 ## Install di Android
-Selain itu kamu juga bisa menginstallnya di [android](https://github.com/yt-dlp/yt-dlp/wiki/Installation#android) dengan menginstallnya melalui [[Termux \| termux]] atau atau dengan [Seal](https://github.com/junkfood02/Seal).
+Selain itu kamu juga bisa menginstallnya di [android](https://github.com/yt-dlp/yt-dlp/wiki/Installation#android) dengan menginstallnya melalui [[Garden/Tech/Termux\|Termux]] atau atau dengan [Seal](https://github.com/junkfood02/Seal).
 
 ---
 
